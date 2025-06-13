@@ -1,0 +1,1 @@
+# Sortify-AI-Powered-Waste-Classification-Management-App
